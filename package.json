@@ -1,0 +1,13 @@
+{
+  "name": "soulbound-identity-registry",
+  "version": "1.0.0",
+  "description": "Non-transferable soulbound credential and identity on-chain ledger",
+  "main": "index.js",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.2"
+  }
+}
